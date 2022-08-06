@@ -40,7 +40,3 @@ content = 变量名.get() #这个是往出取值的
 print(content)
 txt_file = tk.Entry(self.frame, width=50, textvariable=self.keyword_file_path)
 ```
-
-正常人手的力度, 食指捏力度, ...  
-物联网+, 数据处理(深度学习)  
-把视频里面的实物和小程序连接起来
