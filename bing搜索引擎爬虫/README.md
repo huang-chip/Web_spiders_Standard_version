@@ -40,3 +40,7 @@ content = 变量名.get() #这个是往出取值的
 print(content)
 txt_file = tk.Entry(self.frame, width=50, textvariable=self.keyword_file_path)
 ```
+---
+2022/8/14更新手记:  
+作者说 : "啊我懒得做搜索引擎爬虫了, 这个创新点看起来笨笨的, 我决定把重心放在更抽象的地方了, 这个项目已经寄了, 如果想催更的话, 请在issue里面留言吧"
+---
