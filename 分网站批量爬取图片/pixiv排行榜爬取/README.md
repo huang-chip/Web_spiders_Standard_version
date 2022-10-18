@@ -8,12 +8,12 @@
     > 读取特定的csv文件，将对应的图片下载链接，保存为设定好的文件名  
     > 开发了图形化界面，配色也很好看
 2. 运行前，准备好这些  
-   [x]python3及以上版本  
-   [x]requests库  
-   [x]lxml库  
-   [x]pandas库  
-   [x]selenium库，正确的webdriver   
-   [x]梯子自备（科学上网） 
+   [x] python3及以上版本  
+   [x] requests库  
+   [x] lxml库  
+   [x] pandas库  
+   [x] selenium库，正确的webdriver   
+   [x] 梯子自备（科学上网） 
    > - 第一次安装python？[看这里](http://huangxinyuan.cn/python_setup/)  
    > - 如何流畅的安装第三方库
    >  ```shell
